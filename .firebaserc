@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ezee-order-1646a"
+  },
+  "targets": {
+    "ezee-order-1646a": {
+      "hosting": {
+        "ezeeorder": [
+          "ezeeorder"
+        ]
+      }
+    }
+  }
+}
